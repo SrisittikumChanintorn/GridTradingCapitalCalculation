@@ -86,7 +86,7 @@ with st.container():
     st.write('\n')
 
     st.markdown("### Assets Symbol")
-    st.markdown("###### Gold = GLD &nbsp; &nbsp; &nbsp; USOUSD = USO")
+    st.markdown("###### Gold = GC=F &nbsp; &nbsp; &nbsp; USOUSD = CL=F")
     st.markdown("###### EURUSD = EURUSD=X &nbsp; &nbsp; GBP/USD = GBPUSD=X &nbsp; &nbsp; USD/JPY = USDJPY=X  &nbsp; AUD/USD = AUDUSD=X &nbsp; &nbsp; USD/CHF = USDCHF=X &nbsp; &nbsp; USD/CAD = USDCAD=X &nbsp; &nbsp;  NZD/USD = NZDUSD=X")
     st.markdown("###### SP500 = ^GSPC &nbsp; &nbsp; S&P 500 = ^GSPC &nbsp; &nbsp; DJI = ^DJI")
 
