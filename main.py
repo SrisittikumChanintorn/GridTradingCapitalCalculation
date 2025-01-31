@@ -79,7 +79,7 @@ with st.container():
 
     st.title(f"Grid Trading Capital Calculation: {symbol}")
     st.write('\n')
-    st.markdown("#### Calculate grid trading strategy minimum investment capital")
+    st.markdown("#### Calculate grid trading strategy minimum investment capital as a Cent Account")
     st.write('\n')
     st.write('\n')
     st.write('\n')
