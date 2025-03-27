@@ -1,6 +1,6 @@
 # 🚀 Getting Started
 
-#### Click ! to visit website : https://gridtradingcapitalcalculation101.streamlit.app/
+### Click here to visit the website : https://gridtradingcapitalcalculation101.streamlit.app/
 
 ---
 
