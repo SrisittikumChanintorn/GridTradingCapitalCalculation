@@ -5,14 +5,14 @@ git clone https://github.com/your-username/your-repo.git
 cd your-repo
 
 2️⃣ Set Up a Virtual Environment (Recommended)
-# Create Virtual Environment
+Create Virtual Environment
 python -m venv venv
 
-# Activate virtual environment:
-# On Windows:
-venv\Scripts\activate
-# On macOS/Linux:
-source venv/bin/activate
+Activate virtual environment:
+
+venv\Scripts\activate # On Windows
+
+source venv/bin/activate # On macOS/Linux
 
 3️⃣ Install Dependencies ( to Ensure you have streamlit, yfinance, numpy, pandas, plotly, etc. )
 
