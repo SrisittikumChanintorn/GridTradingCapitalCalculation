@@ -1,3 +1,32 @@
+🚀 Getting Started
+
+1️⃣ Clone the Project
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+
+2️⃣ Set Up a Virtual Environment (Recommended)
+# Create Virtual Environment
+python -m venv venv
+
+# Activate virtual environment:
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+
+3️⃣ Install Dependencies ( to Ensure you have streamlit, yfinance, numpy, pandas, plotly, etc. )
+
+pip install -r requirements.txt
+
+🧪 Run the App
+streamlit run main.py 
+
+
+
+
+
+
+
 🧠 Purpose of This Tool
 This program is designed to calculate the minimum capital required for executing a grid trading strategy. It helps determine how much investment is needed based on the zones and strategies you define.
 
