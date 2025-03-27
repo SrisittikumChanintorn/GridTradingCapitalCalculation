@@ -56,7 +56,7 @@ Grid Trading is a strategy that aims to generate profit without predicting price
 Instead of relying on stop-losses, it allocates full capital at predefined price levels.  
 The key idea is to hold positions until the price returns to profitable zones — making it particularly suitable for sideways markets or fundamentally strong assets (where the chance of the price dropping to zero is minimal).
 
-This program simulates the **KZM (Keep Zone Money)** technique to split strategies within the same asset into two distinct approaches:
+This program simulates the **KZM** technique to split strategies within the same asset into two distinct approaches:
 
 - **Fund A**: Long-term positions with wider intervals and larger position sizes.  
 - **Fund B**: Short-term trades with smaller positions, aiming for quicker but smaller profits.
